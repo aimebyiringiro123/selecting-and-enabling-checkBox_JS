@@ -1,0 +1,17 @@
+#mysubmit{
+    color: white;
+    padding: 10px 20px;
+    background-color: rgb(55, 138, 185);
+    cursor: pointer;
+    transition: background-color 0.12s;
+    border-radius: 5px;
+}
+#mysubmit:hover{
+    background-color: rgb(48, 94, 117);
+}
+
+.Subscribe{
+    font-size: 2em;
+    position: relative;
+
+}
